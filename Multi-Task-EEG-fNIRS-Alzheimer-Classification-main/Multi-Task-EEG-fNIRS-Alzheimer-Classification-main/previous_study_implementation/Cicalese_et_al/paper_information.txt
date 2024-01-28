@@ -1,2 +1,0 @@
-Title: "An EEG-fNIRS hybridization technique in the four-class classification of alzheimer’s disease"
-Author: Cicalese et al.
